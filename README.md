@@ -1,0 +1,1 @@
+The "week12" folder encompasses all the necessary code files to develop an application on the server, followed by containerization using Docker and Kubernetes. The accompanying instruction file delineates the sequential steps to seamlessly execute this process.
