@@ -1,0 +1,13 @@
+#pod-definition.yaml
+
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pod
+  labels:
+	app: pod
+	type: back-end
+spec:
+  containers:
+	  image: dadhija/final
+	  name: pod
